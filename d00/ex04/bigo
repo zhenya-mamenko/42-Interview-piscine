@@ -1,0 +1,2 @@
+O(n) with n the characters in the text
+O(1) space

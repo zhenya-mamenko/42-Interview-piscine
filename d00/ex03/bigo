@@ -1,0 +1,2 @@
+O(1) time is best case, O(n) for worst (all elements have the same hash), with n the number of elements in the array
+O(n) space
