@@ -1,0 +1,5 @@
+1. RadixSort
+2. CountSort
+3. MergeSort
+4. InsertionSort https://www.toptal.com/developers/sorting-algorithms/nearly-sorted-initial-order
+5. InsertionSort
