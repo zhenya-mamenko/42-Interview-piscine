@@ -1,0 +1,2 @@
+O(n! * m) time where n number of punches and m is number of stairs
+O(1) space
